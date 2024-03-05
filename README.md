@@ -24,3 +24,5 @@ Dewitz, J., and U.S. Geological Survey, 2021, National Land Cover Database (NLCD
 ## Code/Software
 
 Code for the majority of analyses in the manuscript are provided in bbs_cmp_bin_justms_sub.Rmd. This code was generate using R version 4.3.1.
+
+Rather than merging the above description with the more imposing knitted markdown, the github pages deployment can be found here: https://testudinidude.github.io/Byer_CMP_BBS_msocc/. 

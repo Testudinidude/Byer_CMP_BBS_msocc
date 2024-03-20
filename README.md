@@ -1,6 +1,8 @@
 # Byer_CMP_BBS_msocc
 A repository to accompany the manuscript "Breeding bird sensitivity to urban habitat quality is multi-scale and strongly dependent on migratory behavior".
 
+[![DOI](https://zenodo.org/badge/765203123.svg)](https://zenodo.org/doi/10.5281/zenodo.10845648)
+
 ## Description of the data and file structure
 
 Several datasets are provided for ease of analysis.
